@@ -177,50 +177,13 @@ Short-video social platform, deployed and live.
 
 ---
 
-### 🐍 Contribution Snake (self-updating)
+### 🐍 Contribution Snake 
 
-This one animates your real contribution graph as a snake eating each square — it needs a one-time GitHub Action in your profile repo since it has to run on *your* commit history. Setup:
-
-1. In your `Adityasengar18888/Adityasengar18888` repo, add `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Adityasengar18888
-          outputs: |
-            dist/pikachu-snake.svg
-            dist/pikachu-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it, let the Action run once, then add this to your README (it'll be live after step 1):
-
-```markdown
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityasengar18888/Adityasengar18888/output/pikachu-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Adityasengar18888/Adityasengar18888/output/pikachu-snake.svg" />
 </picture>
-```
+
 
 ---
 
