@@ -36,7 +36,7 @@
 
 - 🔭 Currently leveling up as a **3rd-year CS undergrad** at **JIIT**
 - 🧪 Recently completed an **AI/ML internship at Labmentix** (May–July 2026)
-- ⚔️ Battles regularly on **Codeforces** and has cleared **190+ LeetCode gyms (problems)**
+- ⚔️ Battles regularly on **Codeforces** and has cleared **220+ LeetCode gyms (problems)**
 - 🏆 Active in hackathons and coding competitions
 - 🚀 Latest capture: **[MikMok](https://mikmok-nu.vercel.app)** — a deployed short-video social platform
 
