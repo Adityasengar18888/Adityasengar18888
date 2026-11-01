@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="WIKIRAG">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#171015"/><stop offset="1" stop-color="#08090d"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6868"/><stop offset=".48" stop-color="#c52d3a"/><stop offset="1" stop-color="#4c050b"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+<circle cx="970" cy="235" r="205" fill="#c52d3a" opacity=".10" filter="url(#glow)"/>
+<path d="M0 390 C260 320 370 500 650 400 S1020 340 1200 400" fill="none" stroke="#c52d3a" stroke-opacity=".24" stroke-width="2"/>
+<text x="72" y="88" fill="#c52d3a" font-family="monospace" font-size="17" letter-spacing="6">CLASSIFIED PROJECT / FIELD NOTES</text>
+<text x="72" y="160" fill="#f5eeee" font-family="Arial, sans-serif" font-size="54" font-weight="800">WIKIRAG</text>
+<text x="74" y="205" fill="#c5b8bd" font-family="Arial, sans-serif" font-size="21">Grounded answers. Traceable knowledge. Semantic retrieval.</text>
+
+<g transform="translate(730 70)">
+ <path d="M80 45L285 5 440 95 230 145Z" fill="#5b111c" stroke="#f06a75" stroke-opacity=".8" stroke-width="2"/>
+ <path d="M80 45V220L230 315V145Z" fill="#250d15" stroke="#a72b37" stroke-width="2"/>
+ <path d="M230 145L440 95V265L230 315Z" fill="#3b101a" stroke="#c52d3a" stroke-width="2"/>
+ <path d="M115 75L275 42 385 105 225 140Z" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".25"/>
+ <g stroke="#f4a0a5" stroke-width="3" opacity=".8"><path d="M135 92L250 68"/><path d="M155 106L270 82"/><path d="M175 120L290 96"/></g>
+ <g fill="#f7dadd"><circle cx="530" cy="65" r="12"/><circle cx="590" cy="145" r="9"/><circle cx="510" cy="245" r="10"/><circle cx="655" cy="230" r="8"/></g>
+ <g stroke="#d84a56" stroke-width="3" fill="none"><path d="M440 95L530 65L590 145L655 230L510 245L440 265"/><path d="M530 65L510 245"/></g>
+ <g fill="#ff7d86" font-family="monospace" font-size="13"><text x="500" y="42">EMBEDDING</text><text x="600" y="126">VECTOR DB</text><text x="670" y="250">LLM</text></g>
+</g>
+<text x="74" y="425" fill="#8c7c83" font-family="monospace" font-size="13" letter-spacing="4">AS-18888  /  OBSERVE • ANALYSE • ENGINEER</text>
+<rect x="48" y="30" width="1104" height="410" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
