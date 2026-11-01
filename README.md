@@ -16,7 +16,7 @@
 
 <a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-OPEN%20CASE-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-190%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/Aditya_Sengar/"><img src="https://img.shields.io/badge/LEETCODE-190%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -354,7 +354,7 @@ B.Tech — Computer Science and Engineering · 2024–Present
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Adityasengar18888?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode problem solving activity"/>
+<img src="https://leetcard.jacoblin.cool/Aditya_Sengar?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode problem solving activity"/>
 
 </div>
 
