@@ -60,9 +60,8 @@ I don't believe in treating technology as a collection of frameworks. I want to 
 | INVESTIGATION METRIC | RECORDED VALUE |
 |:---|:---:|
 | LeetCode problems solved | **220+** |
-| Public GitHub repositories | **20+** |
+| Public GitHub repositories | **24** |
 | Major engineering projects documented | **10+** |
-| Cities explored in TerraScope | **55+** |
 | Short-form videos in automation dataset | **39** |
 | Neural network model families in Model Zoo | **9** |
 | CPU scheduling algorithms implemented in VGARSS | **5** |
@@ -421,26 +420,22 @@ Backend: Render
 ---
 
 ## CASE 009 — TerraScope
-<sub>CLASSIFICATION: GEOSPATIAL DATA · THREE.JS · INTERACTIVE VISUALIZATION</sub>
+<sub>CLASSIFICATION: GEOSPATIAL DATA · 3D GLOBE · INTERACTIVE PLANNING</sub>
 
-**An interactive geographic exploration and travel-planning experience.**
+**An interactive globe, mapping and itinerary-planning application built as a modular React experience.**
 
-**The evidence**
-- Three.js-powered 3D globe.
-- MapLibre GL map visualizations.
-- Exploration of 55+ cities.
-- Country-level GDP, population and HDI visualizations.
-- Multi-city itinerary planning.
-- Gamified exploration and XP.
-- Multiple visual themes: Midnight, Arctic and Sunset.
-- Responsive user interface.
+**The investigation**
+- Interactive 3D globe powered by `globe.gl` and Three.js.
+- Map rendering and geospatial navigation with MapLibre GL.
+- Dedicated modules for maps, itinerary planning and country information.
+- Country analytics and chart-based data presentation.
+- Gallery, weather, sound and gamification modules.
+- Centralized application state, routing and theme management.
+- Animated interactions with Framer Motion.
 
-**Evidence / technology:** React · Three.js · MapLibre GL · Recharts · Netlify
+**Evidence / technology:** React 19 · TypeScript · Vite · globe.gl · Three.js · MapLibre GL · Recharts · Framer Motion
 
-🌐 [Live Project — VGARSS/Related Portfolio Work](https://vgarss.vercel.app)  
 🔗 [Source Code — TerraScope](https://github.com/Adityasengar18888/TerraScope---Interactive-map-itenary-planner)
-
----
 
 ## CASE 010 — Business Entity Resolution
 <sub>CLASSIFICATION: DATA ENGINEERING · RECORD LINKAGE · ML CHALLENGE 2026</sub>
@@ -579,7 +574,6 @@ AI/ML internship experience recorded in the previous profile, covering applied m
 | The Nuts and Bolts of Machine Learning | Jun 2026 |
 | The Power of Statistics | Jun 2026 |
 | Google Advanced Data Analytics Professional Certificate | 2026 |
-| Google Advanced Data Analytics Capstone | 2026 |
 
 ## IBM
 
@@ -587,13 +581,13 @@ AI/ML internship experience recorded in the previous profile, covering applied m
 |:---|:---:|
 | Machine Learning with Python | May 2026 |
 
-## Unstop & Hackathon Credentials
+## Unstop
 
 | Credential | Issued |
 |:---|:---:|
-| Certificate of Participation — Chronomind | May 2026 |
-| BLACKBOX.AI — Offline Round | Mar 2026 |
-| Innovate 3.0 — Final Round | Jan 2026 |
+| Certificate of Participation in Chronomind | May 2026 |
+| Certificate of Participation in Offline Round of BLACKBOX.AI | Mar 2026 |
+| Certificate of Participation in Final Round of Innovate 3.0 | Jan 2026 |
 
 ## HackwithIndia
 
@@ -601,11 +595,7 @@ AI/ML internship experience recorded in the previous profile, covering applied m
 |:---|:---:|
 | Vibe Hack 2.0 | Jan 2026 |
 
-## Additional learning
-
-- HackerRank — Frontend Developer (React).
-- DeepLearning.AI — Applied Statistics for Data Analytics.
-- DeepLearning.AI — Data Analytics Foundations.
+<sub>The Google Advanced Data Analytics Professional Certificate was also announced as completed on the LinkedIn profile. Credential links are available from the profile's Licenses & Certifications section.</sub>
 
 <div align="center">
 
@@ -663,17 +653,15 @@ The objective is not just to solve a problem, but to identify its underlying pat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityasengar18888&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
+<img src="https://github.com/Adityasengar18888/Adityasengar18888/blob/main/profile-3d-contrib/profile-custom-red.svg?raw=true" width="95%" alt="Animated 3D GitHub contribution calendar in a red Mentalist-inspired palette"/>
 
 <br/><br/>
 
-<a href="https://github.com/Adityasengar18888">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasengar18888&bg_color=090909&color=F0E6E6&line=8B0000&point=FF3333&area=true&hide_border=true" width="95%" alt="Contribution activity visualization"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Adityasengar18888&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
 
 </div>
 
-> **3D profile note:** GitHub supports animated SVG visualizations in README files, but does not execute interactive 3D scenes. A dedicated 3D contribution calendar can be generated through the [profile-3d-contrib project](https://github.com/yoshi389111/github-profile-3d-contrib) and committed to this repository when its workflow is configured.
+> The 3D calendar is generated daily by the repository's GitHub Actions workflow. Run **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to publish the first SVG. This graphic is a generated SVG rather than an interactive WebGL scene.
 
 ---
 
