@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ADITYA%20SENGAR&fontSize=58&fontColor=F2EDE8&stroke=8B0000&strokeWidth=1&animation=fadeIn&color=0:050505,35:160303,70:520909,100:090909&desc=EVERY%20DETAIL%20TELLS%20A%20STORY%20%E2%80%94%20EVERY%20LINE%20OF%20CODE%20LEAVES%20EVIDENCE&descSize=13&descColor=C9B8B0&descAlignY=75" width="100%" alt="Aditya Sengar — The Mentalist themed profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=17&duration=2800&pause=900&color=C62828&center=true&vCenter=true&width=800&lines=THE+MENTALIST+%7C+DEVELOPER+DOSSIER;OBSERVE.+ANALYSE.+ENGINEER.+REPEAT.;AI%2FML+%C2%B7+FULL+STACK+%C2%B7+SYSTEMS+%C2%B7+DATA;THE+TRUTH+IS+IN+THE+DETAILS." alt="Typing introduction"/>
+<img src="./assets/hero-dossier.svg" width="100%" alt="Aditya Sengar — The Mentalist inspired developer dossier"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CASE%20FILE-ADITYA--18888-8B0000?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-8B0000?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-8B0000?style=for-the-badge&labelColor=101010"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=2600&pause=800&color=E34B59&center=true&vCenter=true&width=850&lines=OBSERVE.+ANALYSE.+ENGINEER.;AI+%2F+ML+%C2%B7+FULL+STACK+%C2%B7+SYSTEMS;THE+TRUTH+IS+IN+THE+DETAILS." alt="Animated introduction"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CASE%20FILE-AS--18888-9B1426?style=for-the-badge&labelColor=09090D"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PROGRESS-9B1426?style=for-the-badge&labelColor=09090D"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-9B1426?style=for-the-badge&labelColor=09090D"/>
 
 <br/><br/>
 
-<a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-INVESTIGATE-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-220%2B%20PROBLEMS-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-OPEN%20CASE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-190%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -22,588 +24,329 @@
 
 <div align="center">
 
-# 🔴 THE RED JOHN FILE
+## 🔴 THE RED JOHN FILE
 
-*“There is nothing more deceptive than an obvious fact.”*  
-— Sherlock Holmes
+*“The details are always there. You just have to know where to look.”*
+
+**SUBJECT:** Aditya Sengar  
+**ROLE:** Computer Science Undergraduate · Software Developer · AI/ML Explorer  
+**INSTITUTION:** Jaypee Institute of Information Technology (JIIT)
 
 </div>
 
-> **Investigation ID:** AS-18888  
-> **Subject:** Aditya Sengar  
-> **Occupation:** Computer Science Undergraduate · Software Developer · AI/ML Explorer  
-> **Institution:** Jaypee Institute of Information Technology (JIIT)  
-> **Primary interests:** Applied AI, full-stack engineering, intelligent systems, data science and algorithmic problem-solving  
-> **Operating philosophy:** Understand the system. Find the pattern. Build the solution.
+I'm a Computer Science undergraduate interested in building software that is technically sound, useful and thoughtfully engineered. My work spans **applied AI, full-stack development, machine learning, data science and systems engineering**.
 
-I'm a Computer Science undergraduate at **JIIT**, interested in engineering software that goes beyond a working interface. I enjoy understanding how systems behave internally — from neural network architectures and retrieval pipelines to distributed communication, database design and real-time applications.
+I like understanding what happens behind the interface: how a retrieval pipeline finds evidence, how a neural network learns, how a scheduler allocates CPU time, and how a real-time application keeps multiple clients synchronized.
 
-My work sits at the intersection of **software engineering, applied machine learning and product development**. I build, experiment, measure, debug and deploy.
-
-I don't believe in treating technology as a collection of frameworks. I want to understand the reasoning behind the system.
+**My approach:** Observe the problem → identify the pattern → engineer the solution → verify the result.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OBSERVATION-01-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/ANALYSIS-02-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/EXECUTION-03-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/VERIFICATION-04-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/01-OBSERVE-65101D?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-ANALYSE-7D1726?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-ENGINEER-A52535?style=flat-square"/>
+<img src="https://img.shields.io/badge/04-VERIFY-C33B4A?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🗂️ CASE SUMMARY — THE NUMBERS
+## 📌 CASE DASHBOARD — BY THE NUMBERS
 
 <div align="center">
 
-| INVESTIGATION METRIC | RECORDED VALUE |
-|:---|:---:|
-| LeetCode problems solved | **220+** |
-| Public GitHub repositories | **24** |
-| Major engineering projects documented | **10+** |
-| Short-form videos in automation dataset | **39** |
-| Neural network model families in Model Zoo | **9** |
-| CPU scheduling algorithms implemented in VGARSS | **5** |
-| Industrial training programme | **6 weeks** |
+<img src="https://img.shields.io/badge/24-PUBLIC%20REPOSITORIES-8B1526?style=for-the-badge&labelColor=101014"/>
+<img src="https://img.shields.io/badge/190%2B-LEETCODE%20PROBLEMS-8B1526?style=for-the-badge&labelColor=101014"/>
+<img src="https://img.shields.io/badge/9-NEURAL%20MODEL%20FAMILIES-8B1526?style=for-the-badge&labelColor=101014"/>
+
+<img src="https://img.shields.io/badge/5-CPU%20SCHEDULING%20ALGORITHMS-8B1526?style=for-the-badge&labelColor=101014"/>
+<img src="https://img.shields.io/badge/1%20MB-TCP%20PAYLOAD%20LIMIT-8B1526?style=for-the-badge&labelColor=101014"/>
+<img src="https://img.shields.io/badge/6%20WEEKS-INDUSTRIAL%20TRAINING-8B1526?style=for-the-badge&labelColor=101014"/>
 
 </div>
 
-<sub>Figures reflect the project documentation and profile information available when this README was prepared. GitHub statistics and coding milestones may change over time.</sub>
+<sub>Repository count is based on the public profile listing. Other figures describe documented project scope or milestones; they are not third-party performance benchmarks.</sub>
 
 ---
 
-# 🧠 THE INVESTIGATOR — TECHNICAL PROFILE
+## 🧩 THE SKILL WALL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flask,tailwind,mysql,postgres,git,github,docker,linux,vite,threejs&perline=11" alt="Technical skills and tools"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,express,fastapi,flask,html,css,tailwind,mysql,postgres,git,github,docker,linux,vite,threejs&perline=11" alt="Programming languages, frameworks and tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--learn%20%7C%20Transformers-171014?style=for-the-badge&labelColor=741626"/>
+<img src="https://img.shields.io/badge/GEN%20AI-Gemini%20%7C%20RAG%20%7C%20Embeddings-171014?style=for-the-badge&labelColor=741626"/>
+<img src="https://img.shields.io/badge/DATA-Pandas%20%7C%20NumPy%20%7C%20SQL-171014?style=for-the-badge&labelColor=741626"/>
 
 </div>
 
-### 01 — Programming & problem-solving
+<details>
+<summary><b>🔍 Technical evidence — expand the skill inventory</b></summary>
 
-- Python, C++, Java, JavaScript and TypeScript
-- Data structures and algorithms
-- Object-oriented programming
-- Competitive programming and analytical problem-solving
-- SQL, relational data modelling and query design
+**Programming & CS:** Python, C++, Java, JavaScript, TypeScript, data structures and algorithms, OOP, complexity analysis.
 
-### 02 — Full-stack engineering
+**Frontend:** React, Next.js, Vite, Tailwind CSS, responsive UI, state management.
 
-- React, Next.js, Vite and Tailwind CSS
-- Node.js, Express, FastAPI and Flask
-- REST API design and integration
-- Authentication, authorization and session management
-- PostgreSQL, MySQL, Neon and Prisma
-- Responsive interfaces and component-based architecture
+**Backend:** Node.js, Express, FastAPI, Flask, REST APIs, WebSockets, TCP socket programming.
 
-### 03 — Artificial intelligence & machine learning
+**AI / ML:** NumPy, Pandas, Scikit-learn, PyTorch, Hugging Face Transformers, NLP, embeddings, RAG, computer vision, YOLO, model evaluation.
 
-- Machine learning and statistical learning
-- Neural networks and deep learning architectures
-- NLP, embeddings and semantic search
-- Retrieval-Augmented Generation (RAG)
-- Computer vision and object tracking
-- Time-series analysis and predictive modelling
-- Model training, evaluation and experimentation
+**Data & infrastructure:** MySQL, PostgreSQL, SQLite, Prisma, Redis, Git, GitHub, Docker, Linux, Vercel, Netlify, Render, Cloudinary.
 
-### 04 — Infrastructure & developer tools
+**3D & visualization:** Three.js, globe.gl, MapLibre GL, Recharts, Plotly.
 
-- Git and GitHub
-- Vercel, Netlify and Render
-- Cloudinary
-- Google Gemini API
-- Docker fundamentals
-- Jupyter Notebook
-- Selenium
-- Linux and Windows development environments
+</details>
 
 ---
 
-# 📁 THE CASE ARCHIVE — FEATURED INVESTIGATIONS
+# 🗃️ THE FIVE FEATURED CASES
 
-*Every repository is a case file. Every implementation leaves evidence.*
+*Five selected builds. Five different engineering investigations.*
 
-## CASE 001 — WikiRAG
-<sub>CLASSIFICATION: RETRIEVAL-AUGMENTED GENERATION · KNOWLEDGE SYSTEMS</sub>
+## 01 / WikiRAG
+<sub>CASE CLASSIFICATION · GENERATIVE AI / RETRIEVAL SYSTEMS</sub>
 
-<div align="center">
-<img src="https://img.shields.io/badge/CASE--001-AI%20RESEARCH-8B0000?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/STATUS-DOCUMENTED-555555?style=flat-square"/>
-</div>
+<img src="./assets/project-wikirag.svg" width="100%" alt="3D vector knowledge retrieval and semantic search illustration"/>
 
-**An AI-powered Wikipedia question-answering system that retrieves relevant knowledge and generates grounded answers with citations.**
+**A Wikipedia question-answering system that retrieves relevant information and produces grounded answers with citations.**
 
-**The investigation**
-- Semantic retrieval over Wikipedia content.
-- Text chunking and embedding generation.
+- Text chunking, embedding generation and semantic retrieval.
 - ChromaDB vector storage and similarity search.
-- Gemini-powered answer generation.
-- Streaming responses and conversational context.
-- Source citations to make answers traceable.
+- Gemini-powered response generation.
+- FastAPI backend with streaming answers.
+- Source citations for traceable responses.
 
-**Architecture**
+**Pipeline**
 
-```text
-User Query
-    |
-    v
-FastAPI Backend
-    |
-    v
-Query Embedding
-    |
-    v
-ChromaDB Vector Search
-    |
-    v
-Wikipedia Retrieval / Fallback
-    |
-    v
-Gemini LLM
-    |
-    v
-Streaming Answer + Citations
+```mermaid
+flowchart LR
+    A[User Query] --> B[FastAPI]
+    B --> C[Query Embedding]
+    C --> D[(ChromaDB)]
+    D --> E[Retrieved Context]
+    E --> F[Gemini]
+    F --> G[Answer + Citations]
+    style D fill:#48101b,stroke:#d94b5c,color:#fff
+    style F fill:#48101b,stroke:#d94b5c,color:#fff
 ```
 
-**Evidence / technology:** Python · FastAPI · Gemini · ChromaDB · Embeddings · RAG · Vanilla JavaScript
+<sub>STACK</sub> Python · FastAPI · Gemini · ChromaDB · Embeddings · RAG
 
-🔗 [Source Code — WikiRAG](https://github.com/Adityasengar18888/WikiRAG)
+🔗 [Explore WikiRAG](https://github.com/Adityasengar18888/WikiRAG)
 
 ---
 
-## CASE 002 — Model Zoo
-<sub>CLASSIFICATION: DEEP LEARNING · NEURAL NETWORK ENGINEERING</sub>
+## 02 / Model Zoo
+<sub>CASE CLASSIFICATION · DEEP LEARNING / NEURAL COMPUTATION</sub>
 
-**A neural-network experimentation platform built around model implementations and a NumPy-based automatic differentiation engine.**
+<img src="./assets/project-modelzoo.svg" width="100%" alt="Three-dimensional neural network architecture illustration"/>
 
-The project explores how neural networks operate internally instead of relying exclusively on high-level frameworks.
+**A neural-network experimentation platform focused on understanding model architectures and the mechanics of learning.**
 
-**Nine documented model families:**
+<sub>9 MODEL FAMILIES DOCUMENTED</sub>
 
-1. Dense Neural Networks — MNIST
-2. Convolutional Neural Networks — CIFAR-10
-3. Recurrent Neural Networks — IMDB
-4. Long Short-Term Memory — IMDB
-5. Transformers — Tiny Shakespeare
-6. Transformer Classifier — AG News
-7. Graph Convolutional Networks — Cora
-8. ResNet — CIFAR-10
-9. Generative Adversarial Networks — MNIST
+<div align="center">
 
-**Investigation focus**
-- Automatic differentiation and tensor operations.
+<img src="https://img.shields.io/badge/01-DENSE%20NN-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-CNN-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-RNN-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/04-LSTM-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/05-TRANSFORMER-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/06-AG%20NEWS-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/07-GCN-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/08-RESNET-741626?style=flat-square"/>
+<img src="https://img.shields.io/badge/09-GAN-741626?style=flat-square"/>
+
+</div>
+
+- NumPy-based automatic differentiation and tensor operations.
 - Forward propagation and backpropagation.
-- Neural-network layers and activation functions.
-- Loss functions and optimization.
-- Training and evaluation pipelines.
-- Model exploration through a FastAPI-powered web interface.
+- Model training, evaluation and optimization.
+- Experiments spanning MNIST, CIFAR-10, IMDB, AG News, Cora and Tiny Shakespeare.
+- FastAPI-powered model exploration interface.
 
-**Evidence / technology:** Python · NumPy · FastAPI · Neural Networks · CNN · RNN · LSTM · Transformers · GAN · GCN
+<sub>STACK</sub> Python · NumPy · FastAPI · Neural Networks · CNN · RNN · LSTM · Transformers · GAN · GCN
 
-🔗 [Source Code — Model Zoo](https://github.com/Adityasengar18888/Model-Zoo)
+🔗 [Explore Model Zoo](https://github.com/Adityasengar18888/Model-Zoo)
 
 ---
 
-## CASE 003 — VGARSS 2.0
-<sub>CLASSIFICATION: OPERATING SYSTEMS · COMPUTER NETWORKS · DISTRIBUTED COLLABORATION</sub>
+## 03 / VGARSS 2.0
+<sub>CASE CLASSIFICATION · OPERATING SYSTEMS / NETWORKING / COLLABORATION</sub>
+
+<img src="./assets/project-vgarss.svg" width="100%" alt="Isometric process scheduling and real-time networking illustration"/>
 
 **Virtual Group Asynchronous Real-Time Resource Synchronization & Scheduling System.**
 
-A multi-user collaboration platform combining chat, task coordination, operating-system simulations and networking demonstrations.
+A multi-user collaboration platform combining task coordination, real-time communication and interactive operating-system simulations.
 
 **Operating systems laboratory**
-- Five-state process lifecycle: NEW, READY, RUNNING, WAITING and TERMINATED.
-- FCFS scheduling.
-- SJF and SRTF scheduling.
-- Round Robin scheduling.
-- Priority scheduling with aging.
+- FCFS, SJF, SRTF, Round Robin and Priority scheduling with aging.
+- Five-state process lifecycle visualization.
 - Mutex and semaphore synchronization.
 - Deadlock detection using wait-for graph cycle detection.
-- Gantt charts and scheduling performance metrics.
+- Gantt charts and scheduling metrics.
 
-**Computer networks laboratory**
+**Networking laboratory**
 - Authenticated WebSocket communication.
 - Real-time presence and message synchronization.
-- Offline message catch-up.
-- Heartbeat and latency monitoring.
-- Concurrent TCP server.
-- Paired-client message forwarding.
+- Offline message catch-up, heartbeat and latency monitoring.
+- Concurrent TCP server with paired-client message forwarding.
 - Four-byte big-endian length-prefixed message framing.
-- Payload size protection up to 1 MB.
+- Configured payload protection up to **1 MB**.
 
-**Mathematical investigation**
+<div align="center">
 
-```text
-Turnaround Time = Completion Time - Arrival Time
+<img src="https://img.shields.io/badge/5-SCHEDULING%20ALGORITHMS-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5-PROCESS%20STATES-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1%20MB-PAYLOAD%20LIMIT-741626?style=for-the-badge"/>
 
-Waiting Time = Turnaround Time - Burst Time
+</div>
 
-Response Time = First Response Time - Arrival Time
+<sub>STACK</sub> Python · FastAPI · React · TypeScript · WebSockets · TCP · SQLite · PostgreSQL
 
-CPU Utilization = (Busy Time / Total Time) x 100
-```
-
-**Evidence / technology:** Python · FastAPI · React · TypeScript · WebSockets · TCP · SQLite · PostgreSQL
-
-🔗 [Source Code — VGARSS](https://github.com/Adityasengar18888/VGARSS)
+🔗 [Explore VGARSS](https://github.com/Adityasengar18888/VGARSS) · 🌐 [Live Demo](https://vgarss.vercel.app)
 
 ---
 
-## CASE 004 — Smart Parking & Traffic Monitoring
-<sub>CLASSIFICATION: COMPUTER VISION · REAL-TIME AUTOMATION</sub>
+## 04 / Smart Parking & Traffic Monitoring
+<sub>CASE CLASSIFICATION · COMPUTER VISION / REAL-TIME AUTOMATION</sub>
 
-**An AI-powered parking and traffic monitoring system that uses camera feeds and computer vision to automate vehicle-related operations.**
+<img src="./assets/project-parking.svg" width="100%" alt="Isometric AI smart parking camera and vehicle tracking illustration"/>
 
-**The evidence**
+**A computer-vision system for vehicle detection, parking occupancy, number-plate recognition and traffic monitoring.**
+
 - YOLOv8 vehicle detection.
-- DeepSORT object tracking.
-- Persistent vehicle IDs across frames.
-- EasyOCR-based number plate recognition.
-- OpenCV parking occupancy detection.
-- Configurable parking-space calibration.
-- Line-based speed estimation.
-- Automated speed violation logging.
-- Duration-based parking billing.
-- PDF receipt generation.
+- DeepSORT tracking with persistent object IDs.
+- EasyOCR number-plate recognition.
+- OpenCV parking-space occupancy detection.
+- Line-based speed estimation and violation logging.
+- Duration-based parking billing and PDF receipts.
 - Live dashboard and CSV reporting.
 
-**Processing pipeline**
-
-```text
-Camera Feed
-    |
-    v
-YOLOv8 Detection
-    |
-    v
-DeepSORT Tracking
-    |
-    +------> EasyOCR Number Plate Recognition
-    |
-    +------> Parking Occupancy Analysis
-    |
-    +------> Speed Estimation
-    |
-    v
-Flask + Socket.IO Backend
-    |
-    v
-Dashboard / Logs / Billing / Reports
+```mermaid
+flowchart TD
+    A[Camera Feed] --> B[YOLOv8 Detection]
+    B --> C[DeepSORT Tracking]
+    C --> D[Vehicle Identity]
+    C --> E[Parking Occupancy]
+    C --> F[Speed Estimation]
+    D --> G[Flask + Socket.IO]
+    E --> G
+    F --> G
+    G --> H[Dashboard / Reports / Billing]
+    style B fill:#48101b,stroke:#d94b5c,color:#fff
+    style C fill:#48101b,stroke:#d94b5c,color:#fff
 ```
 
-**Evidence / technology:** Python · OpenCV · YOLOv8 · DeepSORT · EasyOCR · Flask · Socket.IO · ReportLab
+<sub>STACK</sub> Python · OpenCV · YOLOv8 · DeepSORT · EasyOCR · Flask · Socket.IO · ReportLab
 
-🔗 [Source Code — Smart Parking](https://github.com/Adityasengar18888/Smart-Parking-and-Traffic-Monitoring-System)
+🔗 [Explore Smart Parking](https://github.com/Adityasengar18888/Smart-Parking-and-Traffic-Monitoring-System)
 
 ---
 
-## CASE 005 — MIKMOK
-<sub>CLASSIFICATION: FULL-STACK DEVELOPMENT · SOCIAL PLATFORM</sub>
+## 05 / MIKMOK
+<sub>CASE CLASSIFICATION · FULL-STACK / SOCIAL PRODUCT ENGINEERING</sub>
 
-<div align="center">
-<img src="https://img.shields.io/badge/CASE--005-PRODUCT%20ENGINEERING-8B0000?style=for-the-badge&labelColor=101010"/>
-</div>
+<img src="./assets/project-mikmok.svg" width="100%" alt="Three-dimensional mobile short-video social platform illustration"/>
 
-**A short-form video social platform designed around content discovery, creator interactions and cloud-based media management.**
+**A short-form video social platform built around creator interactions, media uploads and content discovery.**
 
-**Platform capabilities**
-- User authentication and authorization with Clerk.
 - Vertical short-video feed.
-- Video upload and Cloudinary media storage.
-- Like, comment and share interactions.
-- Creator follow functionality.
+- Clerk authentication and user authorization.
+- Cloudinary video upload and media storage.
+- Likes, comments, shares and creator follows.
 - Search across users, videos and hashtags.
-- In-app notifications.
-- Responsive interface.
-- PostgreSQL database integration.
+- Notifications and PostgreSQL-backed application data.
+- Responsive Next.js interface.
 
-**Architecture**
+**Application architecture**
 
-```text
-Next.js + TypeScript Frontend
-          |
-          v
-      Express API
-          |
-    +-----+------+
-    |            |
-    v            v
-PostgreSQL    Cloudinary
-    |
-    v
-Prisma ORM
-
-Authentication: Clerk
-Frontend: Vercel
-Backend: Render
+```mermaid
+flowchart LR
+    A[Next.js / TypeScript] --> B[Express API]
+    B --> C[(PostgreSQL)]
+    B --> D[Cloudinary]
+    E[Clerk Auth] --> A
+    F[Prisma ORM] --> C
+    style C fill:#48101b,stroke:#d94b5c,color:#fff
+    style D fill:#48101b,stroke:#d94b5c,color:#fff
 ```
 
-**Evidence / technology:** Next.js 15 · React · TypeScript · Tailwind CSS · Shadcn UI · Clerk · Express · Prisma · PostgreSQL · Cloudinary · Zustand · React Query
+<sub>STACK</sub> Next.js · React · TypeScript · Tailwind CSS · Clerk · Express · Prisma · PostgreSQL · Cloudinary · Zustand · React Query
 
-🌐 [Live Project](https://mikmok-nu.vercel.app)  
-🔗 [Source Code — MIKMOK](https://github.com/Adityasengar18888/MIKMOK)
-
----
-
-## CASE 006 — ResonanceStorm
-<sub>CLASSIFICATION: THREE-DIMENSIONAL PHYSICS · WEBAR · MULTIPLAYER SYSTEMS</sub>
-
-**A collaborative WebAR physics simulation featuring interconnected pendulums and a custom three-dimensional physics engine.**
-
-**The investigation**
-- Three.js-based 3D scene rendering.
-- Custom 3D Verlet integration engine.
-- Elastic sphere-to-sphere collision detection.
-- Distance constraints and spring interactions.
-- WebXR surface hit-testing for augmented reality.
-- Socket.IO multiplayer synchronization.
-- Real-time gravity, damping and spring-tension controls.
-- Interactive mass and driving-force configuration.
-- Experimental chaos/disco mode.
-
-**Evidence / technology:** Three.js · TypeScript · WebXR · WebSockets · Socket.IO · Express · Vite
-
-🔗 [Source Code — ResonanceStorm](https://github.com/Adityasengar18888/ResonanceStorm)
+🌐 [Live Project](https://mikmok-nu.vercel.app) · 🔗 [Source Code](https://github.com/Adityasengar18888/MIKMOK)
 
 ---
 
-## CASE 007 — ApxForge Coo. Funds
-<sub>CLASSIFICATION: QUANTITATIVE FINANCE · OPTIONS ANALYTICS · MACHINE LEARNING</sub>
+## 🧪 BEYOND THE FIVE — RESEARCH & EXPERIMENTS
 
-**An options analytics and risk-assessment platform combining mathematical pricing models with machine-learning-assisted analysis.**
+The featured projects are the primary portfolio. Other technical explorations include:
 
-**Quantitative modules**
-- Black–Scholes call and put pricing.
-- Delta, Gamma, Theta, Vega and Rho calculations.
-- Delta-hedging recommendations.
-- Option payoff diagrams.
-- Historical volatility estimation.
-- Real Yahoo Finance option-chain integration.
-- Machine-learning price adjustment.
-- Model error reporting using MAE.
-- Risk score on a 0–100 scale.
-- Scenario stress testing.
-- Volatility analysis and CSV exports.
-- Gemini-powered financial education assistant.
+- **ResonanceStorm:** Three.js, WebXR, multiplayer synchronization and a custom Verlet-based physics simulation.
+- **ApxForge:** Black–Scholes option pricing, Greeks, payoff visualization and quantitative analytics.
+- **Glassdoor Review Summarizer:** DistilBART summarization, DistilBERT sentiment analysis and FastAPI.
+- **TerraScope:** 3D globe, MapLibre GL, geographic exploration and itinerary planning.
+- **Business Entity Resolution:** Record linkage, normalization, candidate generation and matching.
 
-**Evidence / technology:** Python · Streamlit · NumPy · Pandas · Scikit-learn · MySQL · Plotly · Google Gemini
-
-🔗 [Source Code — ApxForge](https://github.com/Adityasengar18888/ApxForge-Coo.-Funds)
+[Browse all public repositories →](https://github.com/Adityasengar18888?tab=repositories)
 
 ---
 
-## CASE 008 — Glassdoor Review Summarizer
-<sub>CLASSIFICATION: NLP · TRANSFORMER INFERENCE · API ENGINEERING</sub>
-
-**A natural-language processing API that transforms lengthy employee reviews into concise summaries and sentiment insights.**
-
-**Investigation modules**
-- DistilBART-based abstractive summarization.
-- DistilBERT sentiment classification.
-- Aspect extraction.
-- Batch summarization.
-- Input sanitization.
-- API rate limiting.
-- Model management and caching.
-- Redis-backed rate-limit storage.
-- Docker-based deployment configuration.
-- Processing-time and service metrics.
-
-**Documented example performance:** approximately 142.5 ms for a sample summarization response. This is an example documented in the project README, not a benchmark guarantee.
-
-**Evidence / technology:** Python · FastAPI · PyTorch · Hugging Face Transformers · DistilBART · DistilBERT · Docker · Redis · pytest
-
-🔗 [Source Code — Glassdoor Review Summarizer](https://github.com/Adityasengar18888/Glassdoor-Review-Summarizer)
-
----
-
-## CASE 009 — TerraScope
-<sub>CLASSIFICATION: GEOSPATIAL DATA · 3D GLOBE · INTERACTIVE PLANNING</sub>
-
-**An interactive globe, mapping and itinerary-planning application built as a modular React experience.**
-
-**The investigation**
-- Interactive 3D globe powered by `globe.gl` and Three.js.
-- Map rendering and geospatial navigation with MapLibre GL.
-- Dedicated modules for maps, itinerary planning and country information.
-- Country analytics and chart-based data presentation.
-- Gallery, weather, sound and gamification modules.
-- Centralized application state, routing and theme management.
-- Animated interactions with Framer Motion.
-
-**Evidence / technology:** React 19 · TypeScript · Vite · globe.gl · Three.js · MapLibre GL · Recharts · Framer Motion
-
-🔗 [Source Code — TerraScope](https://github.com/Adityasengar18888/TerraScope---Interactive-map-itenary-planner)
-
-## CASE 010 — Business Entity Resolution
-<sub>CLASSIFICATION: DATA ENGINEERING · RECORD LINKAGE · ML CHALLENGE 2026</sub>
-
-**An entity-resolution problem focused on identifying the same real-world businesses across multiple noisy data sources.**
-
-**The investigation**
-- Three independent business-record sources.
-- Business-name normalization.
-- Address normalization and matching.
-- Candidate-pair generation and blocking.
-- Entity matching across sources.
-- Validation using held-out training data.
-- Precision-oriented evaluation using the F-score formulation specified by the challenge.
-- Reproducible TSV submission pipeline.
-
-**Evidence / technology:** Python · Pandas · Data Cleaning · Record Linkage · Machine Learning · Entity Resolution
-
-🔗 [Source Code — Business Entity Resolution](https://github.com/Adityasengar18888/business-entity-resolution)
-
----
-
-## ADDITIONAL CASE FILES
-
-| Case | Project | Investigation |
-|:---:|:---|:---|
-| 011 | [J.A.R.V.I.S](https://github.com/Adityasengar18888/J.A.R.V.I.S---Ai-chatbot) | Gemini-powered conversational assistant with file uploads and interactive UI |
-| 012 | [Friday](https://github.com/Adityasengar18888/Friday---Voice-AI-Assistant) | Desktop voice assistant and system automation |
-| 013 | [Auto Video Uploader](https://github.com/Adityasengar18888/Auto-Video-Uploader) | OAuth-based YouTube and Instagram upload automation |
-| 014 | [movie-recommendation-System](https://github.com/Adityasengar18888/movie-recommendation-System) | Recommendation systems |
-| 015 | [QR Code Generator](https://github.com/Adityasengar18888/QR-code-Generator) | QR generation utility |
-| 016 | [algorithm-visualizer](https://github.com/Adityasengar18888/algorithm-visualizer) | Algorithm visualization |
-| 017 | [Personal Diary](https://github.com/Adityasengar18888/Personal-Diary) | Personal data and application development |
-| 018 | [Map](https://github.com/Adityasengar18888/Map) | Mapping application |
-| 019 | [Tic-Tac-Toe](https://github.com/Adityasengar18888/Tic-Tac-Toe) | Game logic and frontend development |
-| 020 | [ininja](https://github.com/Adityasengar18888/ininja) | Web application development |
-
----
-
-# 🧪 THE LABORATORY — ENGINEERING INTERESTS
+# 🎓 EDUCATION & CREDENTIALS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=EXPERIMENTATION%20%2F%20OBSERVATION%20%2F%20ITERATION&fontSize=19&fontColor=EDE7E3&color=0:160303,100:680A0A" width="100%" alt="Laboratory banner"/>
+<img src="https://img.shields.io/badge/EDUCATION-JIIT%20%7C%20B.TECH%20CSE-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-COMPUTER%20SCIENCE-741626?style=for-the-badge"/>
 
 </div>
-
-### Artificial intelligence and deep learning
-
-My interest in AI extends from using pretrained models to understanding the mechanics of learning systems.
-
-Areas explored:
-- Neural-network architecture design.
-- Backpropagation and optimization.
-- CNN, RNN, LSTM and Transformer architectures.
-- Embedding-based semantic retrieval.
-- Retrieval-Augmented Generation.
-- Statistical learning and model evaluation.
-- Time-series prediction.
-- Computer vision and object detection.
-
-### Robotics and reinforcement learning
-
-An experimental robotics direction involving simulated manipulation tasks.
-
-- PyBullet-based robotic simulation.
-- Soft Actor-Critic (SAC).
-- Hindsight Experience Replay (HER).
-- Domain randomization.
-- Object reaching, grasping, lifting and placement.
-- Reward shaping and failure analysis.
-
-### Systems and networking
-
-- TCP socket programming.
-- Concurrent client-server architecture.
-- WebSocket communication.
-- CPU scheduling and synchronization.
-- Deadlock detection.
-- Network protocol analysis.
-- Distributed state synchronization.
-
----
-
-# 🎓 THE ACADEMIC RECORD — EDUCATION & TRAINING
-
-## Education
 
 **Jaypee Institute of Information Technology (JIIT)**  
-Bachelor of Technology — Computer Science and Engineering  
-2024 – Present
+B.Tech — Computer Science and Engineering · 2024–Present
 
-Academic interests:
-- Data Structures and Algorithms
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- Machine Learning
-- Numerical Methods
-- Data Analytics
+**Professional training**
+- AppDrive Technologies Pvt. Ltd. — Industrial training, 6 weeks (June–July 2026).
+- Labmentix — AI/ML internship experience.
 
-## Professional training
-
-**AppDrive Technologies Pvt. Ltd. — Industrial Training**
-
-- Programme duration: 6 weeks
-- Training period: 01 June 2026 – 15 July 2026
-- Focus: Practical software development and full-stack application workflows.
-
-Areas of exposure:
-- User authentication.
-- Video upload and management.
-- Personalized content feeds.
-- Likes, comments and follows.
-- Search functionality.
-- Notifications.
-- Cloud deployment.
-
-**Labmentix — AI/ML Internship**
-
-AI/ML internship experience recorded in the previous profile, covering applied machine learning and practical development exposure.
-
----
-
-# 🏅 CERTIFICATION VAULT — VERIFIED LEARNING
-
-*Credentials recorded on the supplied LinkedIn profile and existing profile documentation.*
-
-## Google
-
-| Credential | Issued |
-|:---|:---:|
-| Foundations of Data Science | Jun 2026 |
-| Go Beyond the Numbers: Translate Data into Insights | Jun 2026 |
-| Regression Analysis: Simplify Complex Data Relationships | Jun 2026 |
-| The Nuts and Bolts of Machine Learning | Jun 2026 |
-| The Power of Statistics | Jun 2026 |
-| Google Advanced Data Analytics Professional Certificate | 2026 |
-
-## IBM
-
-| Credential | Issued |
-|:---|:---:|
-| Machine Learning with Python | May 2026 |
-
-## Unstop
-
-| Credential | Issued |
-|:---|:---:|
-| Certificate of Participation in Chronomind | May 2026 |
-| Certificate of Participation in Offline Round of BLACKBOX.AI | Mar 2026 |
-| Certificate of Participation in Final Round of Innovate 3.0 | Jan 2026 |
-
-## HackwithIndia
-
-| Credential | Issued |
-|:---|:---:|
-| Vibe Hack 2.0 | Jan 2026 |
-
-<sub>The Google Advanced Data Analytics Professional Certificate was also announced as completed on the LinkedIn profile. Credential links are available from the profile's Licenses & Certifications section.</sub>
+### Certification vault
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/">
-<img src="https://img.shields.io/badge/VIEW%20CREDENTIALS-OPEN%20LINKEDIN-8B0000?style=for-the-badge&labelColor=101010"/>
-</a>
+<img src="https://img.shields.io/badge/GOOGLE-ADVANCED%20DATA%20ANALYTICS-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/IBM-MACHINE%20LEARNING%20WITH%20PYTHON-052FAD?style=for-the-badge&logo=ibm"/>
+<img src="https://img.shields.io/badge/DEEPL EARNING.AI-APPLIED%20STATISTICS-8B1526?style=for-the-badge"/>
 
 </div>
+
+**Google**
+- Google Advanced Data Analytics Professional Certificate.
+- The Nuts and Bolts of Machine Learning.
+- Foundations of Data Science.
+- Go Beyond the Numbers: Translate Data into Insights.
+- Regression Analysis: Simplify Complex Data Relationships.
+- The Power of Statistics.
+
+**IBM**
+- Machine Learning with Python.
+
+**DeepLearning.AI**
+- Applied Statistics for Data Analytics.
+- Data Analytics Foundations.
+
+**HackerRank**
+- Frontend Developer (React).
+
+**Hackathons & participation**
+- Chronomind — Certificate of Participation.
+- BLACKBOX.AI — Offline Round.
+- Innovate 3.0 — Final Round.
+- HackwithIndia — Vibe Hack 2.0.
+
+<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/VIEW%20LINKEDIN%20CREDENTIALS-OPEN%20PROFILE-8B1526?style=for-the-badge&logo=linkedin"/></a>
 
 ---
 
@@ -611,103 +354,74 @@ AI/ML internship experience recorded in the previous profile, covering applied m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEETCODE-220%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-DSA%20%26%20ALGORITHMS-8B0000?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+<img src="https://leetcard.jacoblin.cool/Adityasengar18888?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode problem solving activity"/>
 
 </div>
 
-**Problem-solving areas**
-- Arrays, strings and hashing.
-- Linked lists and stacks.
-- Trees and binary search trees.
-- Graph algorithms.
-- Sorting and searching.
-- Dynamic programming.
-- Greedy algorithms.
-- Sliding window and two pointers.
-- Binary search on answer.
-- Computational complexity and optimization.
-
-The objective is not just to solve a problem, but to identify its underlying pattern, prove the approach and implement it efficiently.
+**Areas of practice:** Arrays · Hashing · Linked Lists · Trees · Graphs · Dynamic Programming · Greedy · Binary Search · Sliding Window · Complexity Analysis.
 
 ---
 
-# 📊 THE EVIDENCE WALL — GITHUB ANALYTICS
+# 📈 THE EVIDENCE WALL — LIVE GITHUB DATA
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityasengar18888&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C62828&icon_color=C62828&text_color=E8E0DC&ring_color=8B0000&include_all_commits=true" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasengar18888&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C62828&text_color=E8E0DC&langs_count=10" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adityasengar18888&show_icons=true&hide_border=true&bg_color=0B0B10&title_color=E34B59&icon_color=E34B59&text_color=E8E0E5&ring_color=9B1426&include_all_commits=true" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasengar18888&layout=compact&hide_border=true&bg_color=0B0B10&title_color=E34B59&text_color=E8E0E5&langs_count=8" width="49%" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasengar18888&hide_border=true&background=0D0D0D&ring=C62828&fire=E53935&currStreakLabel=E8E0DC&sideLabels=E8E0DC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasengar18888&hide_border=true&background=0B0B10&ring=E34B59&fire=FF6978&currStreakLabel=E8E0E5&sideLabels=E8E0E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="85%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasengar18888&bg_color=0D0D0D&color=E8E0DC&line=C62828&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasengar18888&bg_color=0B0B10&color=E8E0E5&line=E34B59&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph"/>
 
 </div>
 
-## 3D Contribution Investigation
+## 🧊 3D CONTRIBUTION CHAMBER
 
 <div align="center">
 
-<img src="https://github.com/Adityasengar18888/Adityasengar18888/blob/main/profile-3d-contrib/profile-custom-red.svg?raw=true" width="95%" alt="Animated 3D GitHub contribution calendar in a red Mentalist-inspired palette"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adityasengar18888&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
-
-</div>
-
-> The 3D calendar is generated daily by the repository's GitHub Actions workflow. Run **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to publish the first SVG. This graphic is a generated SVG rather than an interactive WebGL scene.
-
----
-
-# 🕵️ THE INVESTIGATION BOARD — CURRENT FOCUS
-
-<div align="center">
-
-| FILE | AREA | OBJECTIVE |
-|:---:|:---|:---|
-| 01 | Applied AI | Build useful AI-powered applications |
-| 02 | Full Stack | Engineer complete, deployable products |
-| 03 | Deep Learning | Understand models beyond API integration |
-| 04 | Systems | Explore networking, concurrency and OS internals |
-| 05 | Robotics | Experiment with reinforcement learning and manipulation |
-| 06 | Data Science | Convert complex datasets into useful insights |
-
-</div>
-
----
-
-# 🤝 CONTACT — OPEN THE CASE
-
-<div align="center">
-
-<a href="https://github.com/Adityasengar18888">
-<img src="https://img.shields.io/badge/GITHUB-ADITYASENGAR18888-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/">
-<img src="https://img.shields.io/badge/LINKEDIN-ADITYA%20SENGAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-**Interested in:** Software Engineering · AI/ML · Full-Stack Development · Open-Source Collaboration
+<img src="./profile-3d-contrib/profile-custom-red.svg" width="98%" alt="3D GitHub contribution calendar in a crimson and black theme"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:090909,50:5B0000,100:090909&text=THE%20GAME%20IS%20NEVER%20OVER.&fontColor=EDE7E3&fontSize=23&animation=fadeIn" width="100%" alt="The Mentalist inspired closing banner"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adityasengar18888&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" alt="GitHub achievement trophies"/>
 
-### 🔴 “The details are always there. You just have to know where to look.”
+</div>
 
-<sub>CASE FILE AS-18888 · CLASSIFIED PROFILE · LAST REVISED NOVEMBER 2026</sub>
+<sub>The 3D contribution graphic is generated by the profile repository's scheduled GitHub Actions workflow. Run the workflow once from the Actions tab to generate the first image.</sub>
+
+---
+
+# 🕵️ CURRENT INVESTIGATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-APPLIED%20AI-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-FULL%20STACK-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-ROBOTICS%20%26%20RL-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-SYSTEMS%20ENGINEERING-741626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-DATA%20SCIENCE-741626?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📡 ESTABLISH CONTACT
+
+<div align="center">
+
+<a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-ADITYASENGAR18888-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-ADITYA%20SENGAR-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:08090D,50:570D1B,100:08090D&text=THE%20GAME%20IS%20NEVER%20OVER.&fontColor=F4E9EC&fontSize=25&animation=fadeIn" width="100%" alt="Cinematic red and black closing banner"/>
+
+**OBSERVE. THINK. BUILD. REPEAT.**
+
+<sub>CASE FILE AS-18888 · THE MENTALIST EDITION · LAST UPDATED NOVEMBER 2026</sub>
 
 </div>
