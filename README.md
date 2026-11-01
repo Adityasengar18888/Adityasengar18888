@@ -15,6 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-OPEN%20CASE-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://portfolio-wine-two-42.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-9B1426?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://leetcode.com/u/Aditya_Sengar/"><img src="https://img.shields.io/badge/LEETCODE-190%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
@@ -414,6 +415,7 @@ B.Tech — Computer Science and Engineering · 2024–Present
 <div align="center">
 
 <a href="https://github.com/Adityasengar18888"><img src="https://img.shields.io/badge/GITHUB-ADITYASENGAR18888-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://portfolio-wine-two-42.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-9B1426?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aditya-sengar-62427730a/"><img src="https://img.shields.io/badge/LINKEDIN-ADITYA%20SENGAR-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
 <br/><br/>
