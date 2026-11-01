@@ -318,7 +318,7 @@ B.Tech — Computer Science and Engineering · 2024–Present
 
 <img src="https://img.shields.io/badge/GOOGLE-ADVANCED%20DATA%20ANALYTICS-4285F4?style=for-the-badge&logo=google"/>
 <img src="https://img.shields.io/badge/IBM-MACHINE%20LEARNING%20WITH%20PYTHON-052FAD?style=for-the-badge&logo=ibm"/>
-<img src="https://img.shields.io/badge/DEEPL EARNING.AI-APPLIED%20STATISTICS-8B1526?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEPLEARNING.AI-APPLIED%20STATISTICS-8B1526?style=for-the-badge"/>
 
 </div>
 
