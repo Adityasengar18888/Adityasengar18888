@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="SMART PARKING AI">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#171015"/><stop offset="1" stop-color="#08090d"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6868"/><stop offset=".48" stop-color="#b92c3d"/><stop offset="1" stop-color="#4c050b"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+<circle cx="970" cy="235" r="205" fill="#b92c3d" opacity=".10" filter="url(#glow)"/>
+<path d="M0 390 C260 320 370 500 650 400 S1020 340 1200 400" fill="none" stroke="#b92c3d" stroke-opacity=".24" stroke-width="2"/>
+<text x="72" y="88" fill="#b92c3d" font-family="monospace" font-size="17" letter-spacing="6">CLASSIFIED PROJECT / FIELD NOTES</text>
+<text x="72" y="160" fill="#f5eeee" font-family="Arial, sans-serif" font-size="54" font-weight="800">SMART PARKING AI</text>
+<text x="74" y="205" fill="#c5b8bd" font-family="Arial, sans-serif" font-size="21">Computer vision from camera frame to actionable event.</text>
+
+<g transform="translate(740 70)">
+ <path d="M40 210L265 85 540 170 310 300Z" fill="#241019" stroke="#bd3948" stroke-width="2"/>
+ <path d="M90 205L265 110 490 180 315 280Z" fill="#101820" stroke="#6f3541" stroke-width="2"/>
+ <g fill="#a72a3a" stroke="#ff7d87" stroke-width="2"><path d="M130 190L200 150 265 170 195 210Z"/><path d="M290 235L365 192 430 212 355 255Z"/></g>
+ <g fill="#d5dce2" opacity=".8"><path d="M155 184L198 160 239 173 195 197Z"/><path d="M315 230L362 203 404 216 357 243Z"/></g>
+ <g fill="none" stroke="#ff6b78" stroke-width="3"><path d="M130 140L265 65 470 130"/><path d="M130 140V190L195 210L265 170V65"/><path d="M265 65L470 130V180"/></g>
+ <g fill="#ff6b78"><circle cx="265" cy="65" r="8"/><circle cx="470" cy="130" r="8"/></g>
+ <g transform="translate(490 30)"><rect width="120" height="78" rx="9" fill="#10151b" stroke="#e85b69" stroke-width="2"/><path d="M15 58L35 38L52 47L75 18L104 30" stroke="#ff6977" fill="none" stroke-width="3"/><text x="12" y="17" fill="#f3dfe2" font-size="10" font-family="monospace">TRACK / 042</text></g>
+</g>
+<text x="74" y="425" fill="#8c7c83" font-family="monospace" font-size="13" letter-spacing="4">AS-18888  /  OBSERVE • ANALYSE • ENGINEER</text>
+<rect x="48" y="30" width="1104" height="410" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
