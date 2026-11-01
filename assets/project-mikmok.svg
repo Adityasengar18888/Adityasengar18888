@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="MIKMOK">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#171015"/><stop offset="1" stop-color="#08090d"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6868"/><stop offset=".48" stop-color="#a72b40"/><stop offset="1" stop-color="#4c050b"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+<circle cx="970" cy="235" r="205" fill="#a72b40" opacity=".10" filter="url(#glow)"/>
+<path d="M0 390 C260 320 370 500 650 400 S1020 340 1200 400" fill="none" stroke="#a72b40" stroke-opacity=".24" stroke-width="2"/>
+<text x="72" y="88" fill="#a72b40" font-family="monospace" font-size="17" letter-spacing="6">CLASSIFIED PROJECT / FIELD NOTES</text>
+<text x="72" y="160" fill="#f5eeee" font-family="Arial, sans-serif" font-size="54" font-weight="800">MIKMOK</text>
+<text x="74" y="205" fill="#c5b8bd" font-family="Arial, sans-serif" font-size="21">A creator-first short-video product experience.</text>
+
+<g transform="translate(790 38)">
+ <g transform="translate(100 10) rotate(8 120 180)"><rect x="0" y="0" width="220" height="365" rx="28" fill="#08090d" stroke="#e45b6b" stroke-width="4"/><rect x="12" y="18" width="196" height="330" rx="18" fill="#1b1119"/><rect x="82" y="7" width="56" height="7" rx="4" fill="#9e7880"/>
+ <rect x="25" y="42" width="170" height="175" rx="12" fill="#4b1525"/><circle cx="110" cy="115" r="45" fill="#d64b5c" opacity=".5"/><path d="M55 190L100 130L135 165L165 112L195 190Z" fill="#a42b40"/><path d="M25 230H160M25 250H180M25 270H130" stroke="#f2dce0" stroke-opacity=".65" stroke-width="5" stroke-linecap="round"/><circle cx="175" cy="244" r="12" fill="#d94357"/><circle cx="175" cy="284" r="12" fill="#d94357"/><circle cx="175" cy="324" r="12" fill="#d94357"/></g>
+ <g fill="none" stroke="#d74b5c" stroke-width="2"><path d="M20 70L75 105L20 140"/><path d="M330 90L385 125L330 160"/></g>
+ <g fill="#f4dce0" font-family="monospace" font-size="13"><text x="0" y="205">CREATOR</text><text x="325" y="210">DISCOVERY</text></g>
+</g>
+<text x="74" y="425" fill="#8c7c83" font-family="monospace" font-size="13" letter-spacing="4">AS-18888  /  OBSERVE • ANALYSE • ENGINEER</text>
+<rect x="48" y="30" width="1104" height="410" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
