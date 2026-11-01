@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="MODEL ZOO">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#171015"/><stop offset="1" stop-color="#08090d"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6868"/><stop offset=".48" stop-color="#a82d45"/><stop offset="1" stop-color="#4c050b"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset="1" stop-color="#ffffff" stop-opacity=".015"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+<circle cx="970" cy="235" r="205" fill="#a82d45" opacity=".10" filter="url(#glow)"/>
+<path d="M0 390 C260 320 370 500 650 400 S1020 340 1200 400" fill="none" stroke="#a82d45" stroke-opacity=".24" stroke-width="2"/>
+<text x="72" y="88" fill="#a82d45" font-family="monospace" font-size="17" letter-spacing="6">CLASSIFIED PROJECT / FIELD NOTES</text>
+<text x="72" y="160" fill="#f5eeee" font-family="Arial, sans-serif" font-size="54" font-weight="800">MODEL ZOO</text>
+<text x="74" y="205" fill="#c5b8bd" font-family="Arial, sans-serif" font-size="21">Nine model families. One journey into neural computation.</text>
+
+<g transform="translate(760 70)">
+ <g stroke="#e45b6a" stroke-width="2" fill="none" opacity=".8">
+ <path d="M40 60L150 42"/><path d="M40 115L150 79"/><path d="M40 170L150 116"/><path d="M40 225L150 153"/><path d="M135 60L245 61"/><path d="M135 115L245 98"/><path d="M135 170L245 135"/><path d="M135 225L245 172"/><path d="M230 60L340 80"/><path d="M230 115L340 117"/><path d="M230 170L340 154"/><path d="M230 225L340 191"/><path d="M325 60L435 99"/><path d="M325 115L435 136"/><path d="M325 170L435 173"/><path d="M325 225L435 210"/><path d="M420 60L530 118"/><path d="M420 115L530 155"/><path d="M420 170L530 192"/><path d="M420 225L530 59"/>
+ </g>
+ <circle cx="40" cy="60" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="40" cy="115" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="40" cy="170" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="40" cy="225" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="135" cy="60" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="135" cy="115" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="135" cy="170" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="135" cy="225" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="135" cy="280" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="230" cy="60" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="230" cy="115" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="230" cy="170" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="230" cy="225" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="325" cy="60" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="325" cy="115" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="325" cy="170" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="420" cy="60" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/><circle cx="420" cy="115" r="13" fill="#3d111b" stroke="#ff6877" stroke-width="3"/>
+ <path d="M20 320L505 320" stroke="#8e2638" stroke-width="3"/>
+ <g fill="#f2dce0" font-family="monospace" font-size="14"><text x="12" y="355">INPUT</text><text x="180" y="355">HIDDEN LAYERS</text><text x="450" y="355">OUTPUT</text></g>
+ <g transform="translate(470 10)"><path d="M0 0L130 30V160L0 130Z" fill="#501522" stroke="#e45b6a" stroke-width="2"/><path d="M20 24L110 44V65L20 45Z" fill="#e45b6a" opacity=".6"/><path d="M20 65L110 85V106L20 86Z" fill="#e45b6a" opacity=".4"/><path d="M20 106L110 126" stroke="#f4b6be" stroke-width="4"/></g>
+</g>
+<text x="74" y="425" fill="#8c7c83" font-family="monospace" font-size="13" letter-spacing="4">AS-18888  /  OBSERVE • ANALYSE • ENGINEER</text>
+<rect x="48" y="30" width="1104" height="410" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
