@@ -57,7 +57,7 @@ I like understanding what happens behind the interface: how a retrieval pipeline
 <div align="center">
 
 <img src="https://img.shields.io/badge/24-PUBLIC%20REPOSITORIES-8B1526?style=for-the-badge&labelColor=101014"/>
-<img src="https://img.shields.io/badge/190%2B-LEETCODE%20PROBLEMS-8B1526?style=for-the-badge&labelColor=101014"/>
+<img src="https://img.shields.io/badge/300%2B-LEETCODE%20PROBLEMS-8B1526?style=for-the-badge&labelColor=101014"/>
 <img src="https://img.shields.io/badge/9-NEURAL%20MODEL%20FAMILIES-8B1526?style=for-the-badge&labelColor=101014"/>
 
 <img src="https://img.shields.io/badge/5-CPU%20SCHEDULING%20ALGORITHMS-8B1526?style=for-the-badge&labelColor=101014"/>
